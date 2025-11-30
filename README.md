@@ -7,7 +7,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%E2%96%B6+Full+Stack+Developer;%E2%96%B6+Crafting+Digital+Experiences;%E2%96%B6+Building+The+Future" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=LawranceDevaz&style=flat-square&color=000000&label=VIEWS)](https://github.com/LawranceDevaz)
-[![GitHub followers](https://img.shields.io/github/followers/LawranceDevaz?label=FOLLOWERS&style=flat-square&color=000000&labelColor=1a1a1a)](https://github.com/LawranceDevaz)
 
 </div>
 
