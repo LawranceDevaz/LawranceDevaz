@@ -18,15 +18,10 @@
 ```javascript
 class Xenosver {
     constructor() {
-        this.name = "Zainur (Xenosver)";
+        this.name = "Zainur";
         this.username = "LawranceDevaz";
         this.location = "Malang, Indonesia 🇮🇩";
-        this.role = "Full Stack Developer";
-        this.workspace = {
-            os: "Linux",
-            editor: "VS Code / Neovim",
-            terminal: "Zsh + Oh My Zsh",
-            browser: "Brave / Arc"
+        this.role = "Web Developer";
         };
     }
 
@@ -127,13 +122,6 @@ console.log(developer.getCurrentStatus());
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 ACHIEVEMENTS
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LawranceDevaz&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📈 CONTRIBUTION GRAPH
 
@@ -198,24 +186,4 @@ console.log(developer.getCurrentStatus());
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LawranceDevaz/LawranceDevaz/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LawranceDevaz/LawranceDevaz/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LawranceDevaz/LawranceDevaz/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-### ▸ CRAFTED WITH 🖤 BY XENOSVER
-
-**"Building digital experiences, one commit at a time."**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=120&section=footer" width="100%"/>
-
-</div>
