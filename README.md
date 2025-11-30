@@ -121,4 +121,3 @@ const developer = new Zainur();
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHR2NDVzYzByMnlvZmptODkwZWc2dGhuczI3N25kcjh0MDdyNm8waSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yrIqNmE1craBSmQocH/giphy.gif">
