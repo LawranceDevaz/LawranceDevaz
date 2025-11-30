@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌑 XENOSVER 🌑
+# 🌑 Lawrance/Zainur 🌑
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=200&section=header&text=Xenosver&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Code%20Architect&descAlignY=55&descAlign=50&descSize=18" width="100%"/>
 
