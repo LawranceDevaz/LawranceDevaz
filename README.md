@@ -5,9 +5,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=200&section=header&text=Zainur&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Code%20Architect&descAlignY=55&descAlign=50&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%E2%96%B6+Full+Stack+Developer;%E2%96%B6+Crafting+Digital+Experiences;%E2%96%B6+Building+The+Future" alt="Typing SVG" />
-<div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3o5dXZ5dzd5ampjOG91ZHY5eDBxdzdzemF4eXMybTUyODBqamdweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d09xZLj1wgWuQ/giphy.gif" width="100%" style="max-width: 800px;" alt="Coding GIF"/>
-</div>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=LawranceDevaz&style=flat-square&color=000000&label=VIEWS)](https://github.com/LawranceDevaz)
 
@@ -124,3 +121,4 @@ const developer = new Zainur();
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHR2NDVzYzByMnlvZmptODkwZWc2dGhuczI3N25kcjh0MDdyNm8waSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yrIqNmE1craBSmQocH/giphy.gif">
