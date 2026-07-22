@@ -45,8 +45,6 @@ const developer = new Zainur();
 <div align="center">
 
 ### ▸ Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
@@ -113,8 +111,7 @@ const developer = new Zainur();
 <div align="center">
 
 ```diff
-+ "Clean code always looks like it was written by someone who cares."
-+ "First, solve the problem. Then, write the code."
++ "Sebagus bagusnya code mu semua akan kembali ke ai sendiri"
 + "Code is like humor. When you have to explain it, it's bad."
 ```
 
